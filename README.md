@@ -6,6 +6,8 @@ O projeto foi criado para evoluir meus conhecimentos em JavaScript e aprender co
 
 ![preview](./.github/preview.png)
 
+[ 🔗 Clique aqui para acessar](https://joaoliveirapb.github.io/snapClima/)
+
 ## 🛠️ Tecnologias
 
 - JavaScript
